@@ -1,11 +1,5 @@
 # Crypto Currency Dashboard
 
-## Team Members:  
-- **Avani Gulati**(**avanigul@buffalo.edu**) - This is the person who will submit the proposal
-- **Manohar Golleru**(**manoharg@buffalo.edu**)
-- **Shivani Tirumalasetti**(**stirumal@buffalo.edu**)
-- **Dinakar Inavolu** (**vinavolu@buffalo.edu**)
-
 YouTube Video: *https://youtu.be/sJ1xvFNyPmQ*
 ---
 
